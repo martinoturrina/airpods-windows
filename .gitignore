@@ -1,0 +1,6 @@
+*.exe
+*.log
+*.cache
+device.txt
+mute.wav
+unmute.wav
